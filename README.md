@@ -17,7 +17,7 @@ Power Query (Data Cleaning & Transformation)
 Basic DAX Measures
 
 **Dashboard Preview**
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard_preview.png)
 
 **Key Insights**
 Identified overall sales and profit performance using KPIs
